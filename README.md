@@ -1,78 +1,127 @@
-<h1 align="center">Hi 👋, I'm Snehal Suman</h1>
-<h3 align="center">🚀 Passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhijeet Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | AI & Data Science Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=snehalsuman&label=Profile%20views&color=0e75b6&style=flat" alt="snehalsuman" />
+  <img src="https://komarev.com/ghpvc/?username=Abhijeetkumar17&label=Profile%20views&color=0e75b6&style=flat" alt="Abhijeetkumar17" />
 </p>
+
+---
 
 ### 💼 About Me
 
-- 💻 **Expertise**: MERN stack, backend architecture, API development, deployment, and scalable applications.
-- 🏆 **Problem Solver**: Solved 600+ DSA problems on LeetCode & GeeksforGeeks with strong skills in data structures and algorithms.
-- 🎯 **Passionate About**: Building intelligent systems, optimizing performance, and solving real-world problems with technology.
-- 🤖 **Currently Exploring**: AI integration & DevOps automation.
+- 💻 Full Stack Developer with strong skills in Java, JavaScript, and Python  
+- 🤖 Interested in AI, Data Science, and System Architecture  
+- 🏆 Active in coding communities and hackathons  
+- 🎯 Passionate about building scalable, real-world applications  
 
 ---
 
-### 🌱 Currently Learning:
-- 🧠 Spring Boot
-- ⚛️ React.js
+### 🌱 Currently Learning
 
-### 📫 How to reach me:
-- 📧 snehals0203@gmail.com  
-- 📄 [View My Resume](https://drive.google.com/file/d/19SEMGOKcs3XP_3OpeBle_H5rYciwI0sV/view?usp=sharing)
+- 🧠 Advanced System Design (HLD & LLD)
+- ⚛️ React.js & Backend Optimization
+- ☁️ Cloud & DevOps (Docker, Kubernetes)
 
 ---
 
-### 🌐 Connect with me:
+### 💼 Internship Experience
+
+#### 🔹 CodeAlpha – Data Science Intern (Jan 2025 – Feb 2025)
+- Worked on predictive modeling
+- Data analysis using Python, SQL, Excel
+
+#### 🔹 IBM (AllSoft) – Full Stack Developer Intern (Jun 2024 – Jul 2024)
+- Built frontend & backend applications
+- Worked with microservices & Kubernetes
+
+---
+
+### 🚀 Projects
+
+#### 🤖 AI-Powered Chatbot with 3D Animated Face
+- Real-time chatbot with voice & facial expressions  
+- Top 200 project at Hack2Skill (Google)
+
+**Tech:** Python, Flask, Unity, WebSocket, TensorFlow
+
+---
+
+#### 💬 QuickChat – Real-Time Chat Application
+- Real-time messaging system
+- JWT authentication & Stripe integration
+
+**Tech:** React, Node.js, MongoDB, Socket.IO
+
+---
+
+#### 👁️ Face Recognition System
+- PCA & Eigenfaces based recognition
+- Optimized image processing
+
+**Tech:** Python, OpenCV, scikit-learn
+
+---
+
+### 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://linkedin.com/in/snehal-suman" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/_snehal__2919" target="blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/snehals0203" target="blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/_snehal__2919" target="blank">
-    <img src="https://img.shields.io/badge/-Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/snehal2919" target="blank">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,js,python,react,nodejs,mongodb,mysql,html,css,tailwind,django,docker,kubernetes,git,github,figma,postman" />
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,python,c,cpp,kotlin,mysql,mongodb,html,css,tailwind,django,spring,aws,figma,photoshop" />
-</p>
+### 🏆 Achievements
+
+- 🌟 100K+ LinkedIn Impressions (#365DaysOfCode)
+- 🥇 1st Position – CTF Challenge (GDSC)
+- 🏅 Hack2Skill Hackathon Badge (Google)
+- 🥈 Silver Badge – Apertio 2.0 (Open Source)
 
 ---
 
-### 🏆 GitHub Trophies:
+### 📜 Certifications
+
+- 📊 Data Visualization – TATA
+- ☁️ Cloud Computing – NPTEL (IIT Kharagpur)
+- 🤖 AI Tools & ChatGPT – Be10X
+- 🌐 Google BigQuery ML Badge
+
+---
+
+### 🎓 Education
+
+🎓 **B.Tech CSE** – Lovely Professional University  
+CGPA: 8.80 (Since Aug 2026)
+
+🏫 Intermediate – R.P.S School, Bihar (83.20%)  
+🏫 Matriculation – Saraswati Vidya Mandir, Bihar (93.50%)
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: abhijeetsinha2017@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/abhijeet-sinha-401716255/  
+- 💻 GitHub: https://github.com/Abhijeetkumar17  
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehalsuman&theme=onedark&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhijeetkumar17&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijeetkumar17&layout=compact&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhijeetkumar17&theme=radical" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=snehalsuman&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehalsuman&layout=compact&theme=radical" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehalsuman&theme=radical" />
-</p>
+### ☕ Support Me
 
----
-
-### ☕ Support Me:
 <p>
-  <a href="https://www.buymeacoffee.com/snehalsuman">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <a href="https://www.buymeacoffee.com/abhijeetkumar">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
   </a>
 </p>
